@@ -5,7 +5,7 @@ import flet
 try:
     from views import cense, immortality, lyra, main, mountain, rain, treasure, buddhist
     from views.treasure_dialogs import pdf2word
-except:
+except Exception:
     pass
 from flet import Tabs, Tab, Page, Stack, ProgressBar
 
