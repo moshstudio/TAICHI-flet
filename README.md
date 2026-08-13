@@ -99,4 +99,4 @@
 
 ## Star历史
 
-![Star History Chart](https://api.star-history.com/svg?repos=moshstudio/TAICHI-flet&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=moshstudio/TAICHI-flet&type=Date)
